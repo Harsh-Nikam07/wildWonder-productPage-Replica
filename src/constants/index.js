@@ -15,9 +15,9 @@ const productData = {
             },
             "ingredients": "Filtered Sparkling Water, Raspberry Puree, Lychee Juice Concentrate, Honeysuckle Flower Extract, Organic Cane Sugar, Prebiotic Fiber, Probiotic Cultures, Natural Flavors, Citric Acid",
             "images": [
-              "src/assets/products/raspberry-lychee/RL-1.webp",
-              "src/assets/products/raspberry-lychee/RL-2.webp",
-              "src/assets/products/raspberry-lychee/RL-3.webp"
+              "/RL-1.webp",
+              "/RL-2.webp",
+              "/RL-3.webp"
             ]
           },
           {
