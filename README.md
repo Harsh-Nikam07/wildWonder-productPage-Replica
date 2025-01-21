@@ -2,6 +2,11 @@
 
 This project is a replica of the **Wild Wonders** product details page, showcasing a range of probiotic and prebiotic sparkling drinks. The application provides detailed product information, customer reviews, and a newsletter subscription feature, all built with modern web technologies.
 
+
+
+https://github.com/user-attachments/assets/c9aa5753-1047-4409-b9df-bdc700764f17
+
+
 ## Features
 
 - Display a variety of probiotic drinks with detailed descriptions.
